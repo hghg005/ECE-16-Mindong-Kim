@@ -7,3 +7,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/UCSD-ECE16/ece16-wi2021-hghg005.git
 git push -u origin main
+# ece16-wi2021-hghg005
