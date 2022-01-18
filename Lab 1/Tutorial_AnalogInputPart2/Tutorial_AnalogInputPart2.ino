@@ -17,4 +17,6 @@ Serial.print(",");
 Serial.print(ay);
 Serial.print(",");
 Serial.println(az);
+
+delay(1000);
 }
